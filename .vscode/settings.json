@@ -1,0 +1,12 @@
+{
+  "eslint.debug": true,
+  "eslint.format.enable": true,
+  "cSpell.words": [
+    "hotwired"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "modifications"
+}
